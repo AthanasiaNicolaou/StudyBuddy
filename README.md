@@ -1,6 +1,3 @@
-# StudyBuddy
-Student-focused study partner matching app concept developed for EduDataHack 2025 — 1st Place
-
 <h1>StudyBuddy</h1>
 <h4> 🏆 1st Place — EduDataHack 2025 Local Hackathon </4>
 StudyBuddy is a student-centred academic support application concept designed to help students develop better study habits through compatible study partnerships.
