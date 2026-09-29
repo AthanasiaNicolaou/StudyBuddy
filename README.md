@@ -55,9 +55,9 @@ During the hackathon, we developed the concept, proposed implementation approach
 
 <h4>EduDataHack 2025 Local Hackathon</h3>
 
-**Team:** LearnLink
-**Team size:** 2
-**Result:** 🥇 1st Place
+**Team:** LearnLink  
+**Team size:** 2  
+**Result:** 🥇 1st Place  
 **Award:** Mentoring opportunity with Artemis Intelligence
 
 Our team developed and presented the StudyBuddy concept to the hackathon judges, communicating the problem, proposed solution, key features, implementation approach and future potential of the application.
