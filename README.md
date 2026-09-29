@@ -52,7 +52,7 @@ During the hackathon, we developed the concept, proposed implementation approach
 
 <h3>🏆 Hackathon</h3>
 
-<h4>EduDataHack 2025 Local Hackathon</h3>
+<h4>EduDataHack 2025 Local Hackathon</h4>
 
 **Team:** LearnLink  
 **Team size:** 2  
