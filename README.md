@@ -61,6 +61,6 @@ During the hackathon, we developed the concept, proposed implementation approach
 
 Our team developed and presented the StudyBuddy concept to the hackathon judges, communicating the problem, proposed solution, key features, implementation approach and future potential of the application.
 
-<h3>📄 Presentation</h3>
+### 📄 Presentation
 
-The repository includes the presentation developed for the hackathon, showcasing the StudyBuddy concept, its proposed features, implementation plan and future potential.
+[View the StudyBuddy Presentation](StudyBuddy-Presentation.pdf)
